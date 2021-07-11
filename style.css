@@ -1,0 +1,222 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
+
+:root {
+  --font-family: "Lato", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #1b1c1d;
+  color: white;
+  font-family: var(--font-family);
+}
+
+.navbar {
+  display: flex;
+  padding-left: 16%;
+  padding-top: 1%;
+  font-size: small;
+  color: rgb(163, 159, 159);
+}
+
+.bc1 {
+  text-align: center;
+  padding-top: 11%;
+  padding-bottom: 20%;
+}
+
+.line1 {
+  font-size: 58px;
+}
+
+.line2 {
+  font-size: 24px;
+  padding-top: 2%;
+}
+
+.wc1 {
+  display: flex;
+  padding-top: 5%;
+  background-color: white;
+  color: black;
+  width: 100%;
+}
+
+.left {
+  padding-left: 16%;
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+.lc1 {
+  padding-bottom: 3%;
+}
+
+.lc2 {
+  padding-bottom: 3%;
+}
+
+p {
+  padding-right: 14%;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #525151;
+}
+
+.photo {
+  padding-top: 12%;
+  padding-left: 9%;
+}
+
+.others {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding-bottom: 6%;
+}
+
+.button1 {
+  width: 8%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: grey;
+  border: 0;
+  border-radius: 3%;
+  font-size: 16px;
+  margin-right: 1%;
+}
+.button2 {
+  width: 8%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: red;
+  border: 0;
+  border-radius: 3%;
+  color: white;
+  font-size: 16px;
+  margin-right: 1%;
+}
+.button3 {
+  width: 8%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: orange;
+  border: 0;
+  border-radius: 3%;
+  color: white;
+  font-size: 16px;
+}
+
+.bc2 {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.wc2 {
+  padding-top: 3%;
+  background-color: white;
+  color: black;
+  padding-bottom: 7%;
+}
+
+.midword {
+  display: flex;
+  align-items: center;
+}
+
+.hrline {
+  width: 50%;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  border: 1px solid darkgray;
+}
+
+.award {
+  font-size: 24px;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.boxes {
+  margin-top: 4%;
+  margin-left: 16%;
+}
+.btns {
+  text-align: left;
+  padding-left: 1%;
+  width: 20%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-right: 2%;
+  margin-bottom: 4%;
+  background-color: white;
+  border: 2px solid darkgray;
+  border-radius: 4%;
+  color: darkgray;
+}
+.poet {
+  display: flex;
+  margin-left: 16%;
+  margin-top: 4%;
+}
+
+.midword1 {
+  display: flex;
+  align-items: center;
+}
+
+.hrline1 {
+  width: 25%;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  border: 1px solid darkgray;
+  margin: 0;
+}
+
+.word1 {
+  font-size: 24px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.list {
+  color: darkgray;
+  font-size: small;
+  padding-top: 8%;
+  padding-right: 18%;
+}
+.list1 {
+  color: darkgray;
+  font-size: small;
+  padding-top: 14%;
+}
+
+.bc3 {
+  display: flex;
+  margin-top: 5%;
+  padding-left: 16%;
+  font-size: 14px;
+  padding-bottom: 4%;
+}
+
+.footcenter{
+  margin-left: 5%;
+margin-right: 17%;
+border-left: 1px solid darkgray;
+padding-left: 1%;
+}
+
+.footlast{
+border-left: 1px solid darkgray;
+padding-left: 1%;
+}
